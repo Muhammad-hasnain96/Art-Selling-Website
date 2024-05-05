@@ -1,4 +1,4 @@
-# Art Selling Website README
+# Art Selling Website
 
 This project consists of a simple HTML webpage for an art selling website named **H.Z_CREATIVES**. The webpage includes various sections such as navigation, main content, welcome message, gallery, background information, a quote, subscription form, and footer.
 
